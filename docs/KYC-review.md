@@ -29,7 +29,7 @@
 
 #### 특징 3 - 토큰 경제 생태계 추구 
 
-![Screen Shot 2018-08-08 at 1.40.23 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 1.40.23 PM.png)
+![Screen Shot 2018-08-08 at 1.40.23 PM](images/Screen Shot 2018-08-08 at 1.40.23 PM.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 #### Civic (2/2) ###
 
-![Screen Shot 2018-08-08 at 2.19.18 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 2.19.18 PM.png)
+![Screen Shot 2018-08-08 at 2.19.18 PM](images/Screen Shot 2018-08-08 at 2.19.18 PM.png)
 
 ---
 
@@ -56,13 +56,13 @@
 - 개인마다 발급된 Proxy Contract라는 가상 주소를 통해서 작동
 - 현재 앱만 존재 / 서비스는 아직 준비 중
 
-![Screen Shot 2018-08-08 at 2.25.12 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 2.25.12 PM.png)
+![Screen Shot 2018-08-08 at 2.25.12 PM](images/Screen Shot 2018-08-08 at 2.25.12 PM.png)
 
 --
 
 #### Uport(2/2)
 
-![Screen Shot 2018-08-08 at 2.27.37 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 2.27.37 PM.png)
+![Screen Shot 2018-08-08 at 2.27.37 PM](images/Screen Shot 2018-08-08 at 2.27.37 PM.png)
 
 ---
 
@@ -79,13 +79,13 @@
 
 #### Metadium(2/3)
 
-![Screen Shot 2018-08-08 at 2.50.48 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 2.50.48 PM.png)
+![Screen Shot 2018-08-08 at 2.50.48 PM](images/Screen Shot 2018-08-08 at 2.50.48 PM.png)
 
 --
 
 #### Metadium(3/3) 
 
-![Screen Shot 2018-08-08 at 2.51.37 PM](/Users/greyhaven/Downloads/Blockchain Images/Screen Shot 2018-08-08 at 2.51.37 PM.png)
+![Screen Shot 2018-08-08 at 2.51.37 PM](images/Screen Shot 2018-08-08 at 2.51.37 PM.png)
 
 ---
 
