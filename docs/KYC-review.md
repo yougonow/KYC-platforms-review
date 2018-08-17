@@ -38,7 +38,7 @@
 - 기반 블록체인: RSK(Bitcoin 기반 사이드체인)
 - 개인정보를 사용자의 스마트기기 내부에 저장
 - 자체적으로 최초 신원확인 후 블록체인에 확인 여부를 기록
-- 이후 QR 코드를 이용해 신원확인 요청 / 사용자가 앱으로 확인 후 승인
+- QR 코드를 이용해 신원확인 요청 / 사용자가 앱으로 확인 후 승인
 - 현재 서비스 중
 
 --
@@ -53,7 +53,7 @@
 
 - Ethereum Smart Contract 기반
 - 개인정보를 암호화해서 IPFS에 저장
-- 개인마다 발급된 Proxy Contract라는 가상 주소를 통해서 작동
+- 개인별로 발급된 가상 주소를 통해 작동(Proxy Contract)
 - 현재 앱만 존재 / 서비스는 아직 준비 중
 
 ![Screen Shot 2018-08-08 at 2.25.12 PM](images/Screen Shot 2018-08-08 at 2.25.12 PM.png)
@@ -98,5 +98,13 @@
 
 ---
 
+#### Conclusion
 
+|                        |       Civic        |    Uport    | Sovrin  |      Metadium      |
+| :--------------------: | :----------------: | :---------: | :-----: | :----------------: |
+|         플랫폼         |        RSK         |  Ethereum   | Unknown |    메인넷(예정)    |
+|        컨센서스        | Merged Mining(POW) |      -      | Unknown | Proof of Authority |
+|      프록시 주소       |         X          |      O      |    O    |         O          |
+|    개인정보 저장소     |        로컬        |    IPFS     |  IPFS   |      Unknown       |
+| 현 상황(18년 8월 기준) |     서비스 중      | 서비스 직전 | Unknown |   19년 3Q 상용화   |
 
