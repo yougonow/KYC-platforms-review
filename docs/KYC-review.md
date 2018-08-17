@@ -101,4 +101,4 @@
 
 ### Conclusion
 
-![8](/Users/greyhaven/Workspace/slides/KYC-platforms-review/docs/images/8.png)
+![8](images/8.png)
